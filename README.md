@@ -1,10 +1,8 @@
 # NeonAbyssCheater
 
-This is a Cheater for Neon Abyss.
+这是《霓虹深渊》的辅助
 
-Download Executable in [here](https://github.com/2Mw/NeonAbyssCheater/releases)
-
-## Functions
+## 演示
 
 ![image-20231203171713728](README.assets/image-20231203171713728.png)
 
@@ -13,6 +11,6 @@ Download Executable in [here](https://github.com/2Mw/NeonAbyssCheater/releases)
 ![image-20231203171656849](README.assets/image-20231203171656849.png)
 
 
-## Disclaimer
+## 免责声明
 
-This tool is only for learning use. Please don't abuse this.
+此工具仅供学习使用。请勿滥用
